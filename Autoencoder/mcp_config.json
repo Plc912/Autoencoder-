@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "hy-omRG02EAArPj9uTChW": {
+      "name": "Autoencoder",
+      "description": "",
+      "baseUrl": "http://127.0.0.1:3001/sse",
+      "command": "",
+      "args": [],
+      "env": {},
+      "isActive": true,
+      "type": "sse"
+    }
+    }
+}
